@@ -1,1 +1,8 @@
-tqdm
+to run the firstscript.sh properly 
+install the pv command 
+
+command: brew install pv
+
+to run the firstscript.py 
+install tqdm
+pip3 install tqdm
